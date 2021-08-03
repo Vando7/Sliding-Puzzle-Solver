@@ -1,4 +1,3 @@
-___________________________________________
 ## Board implementation:
 
 The board is an array of numbers.
@@ -95,7 +94,7 @@ https://www.python.org/downloads/
 
 Open a command terminal in the folder where hw1.py is located and run with
 ```
-python hw1.py
+python sliding_puzzle.py
 ```
 ___________________________________________
 ## Given boards:
