@@ -60,7 +60,7 @@ The solve function takes the initial state.
 
 We initialize an empty open list and add the initial state to it. We also initialize an empty parent dictionary.
 
-We are entering a cycle:
+We enter the following cycle.
 
 1. Initialize tmp = open [0]
 2. Check if this element is the target -> End
